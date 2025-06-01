@@ -11,7 +11,6 @@ To write a C function to evaluate the given prefix expression using stack and pr
 6.For each character, if it’s an operator (+, *), pop two operands from the stack, perform the operation, and push the result.
 7.If it's a digit, convert it to an integer and push it onto the stack; finally, print the result after the loop ends.
 8.End
-
 ## Program:
 ```
 /*
